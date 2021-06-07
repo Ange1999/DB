@@ -1,0 +1,10 @@
+{
+    "getAllAuthors": "SELECT * FROM",
+    "getAllBooks": "SELECT * FROM",
+    "getByParams": "SELECT * FROM {0} WHERE name={1} AND age={2}",
+    "addNewAuthor": "INSERT",
+    "sortByAuthorName": "SELECT",
+    "sortByBookName": "SELECT",
+    "deleteBook": "DELETE",
+    "updateBooks": "UPDATE"
+}
